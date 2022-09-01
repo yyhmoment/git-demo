@@ -16,3 +16,4 @@ hello world! master conflict test
 hello world! hot-fix conflict test 
 pull test ull test pull test
 fetch test fetch test fetch test fetch test 
+fetch test two fetch test two fetch test two 
